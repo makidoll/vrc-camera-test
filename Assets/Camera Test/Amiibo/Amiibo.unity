@@ -354,7 +354,7 @@ GameObject:
   - component: {fileID: 633791414}
   - component: {fileID: 633791413}
   m_Layer: 13
-  m_Name: Amiibo
+  m_Name: Amiibo Stand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
